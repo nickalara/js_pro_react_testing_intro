@@ -39,5 +39,3 @@ https://levelup.gitconnected.com/using-truth-tables-to-write-better-unit-tests-d
 ### Your Turn
 
 Watch the videos above and complete the `TODO`s in `src/components/WelcomeBanner.spec.js` - try and NOT copy what was done in the videos. These tests should be your own and feel free to change any code or make any additions you feel necessary!
-
-Making remote repo on my github account.
